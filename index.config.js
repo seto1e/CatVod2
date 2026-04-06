@@ -306,6 +306,8 @@ var index_config_default = {
       address: "http://zuidazy.me/api.php/provide/vod/"},
       {name: "🦊火狐點播",
       address: "https://hhzyapi.com/api.php/provide/vod/"},
+      {name: "5️⃣五五影視",
+      address: "http://142.171.248.206:5757/api/55影视?pwd=dzyyds"},
 ]},
   cms: {
     list: []
