@@ -308,6 +308,9 @@ var index_config_default = {
       address: "https://hhzyapi.com/api.php/provide/vod/"},
       {name: "5️⃣五五影視",
       address: "http://142.171.248.206:5757/api/55影视?pwd=dzyyds"},
+      {name: "🍎蘋果影視",
+      address: "https://api.maoyanapi.top/api.php/provide/vod"},
+     
 ]},
   cms: {
     list: []
